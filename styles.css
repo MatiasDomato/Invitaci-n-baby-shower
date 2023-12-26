@@ -6,10 +6,12 @@ body {
   }
   
   .container {
+    display: flex;
+    flex: 1;
+    justify-content: center;
     text-align: center;
     position: relative;
     margin-top: 50px;
-    max-width: 600px;
     margin: 0 auto;
     padding: 2rem 20px 0;
   }
