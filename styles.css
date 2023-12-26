@@ -5,13 +5,11 @@ body {
   box-sizing: border-box;
 }
 
-.container {
+.principal {
   text-align: center;
   position: relative;
-  margin-top: 50px;
-  max-width: 600px;
   margin: 0 auto;
-  padding: 2rem 20px 0;
+  padding: 4rem 20px 15rem;
 }
 
 .background-image {
@@ -25,7 +23,7 @@ body {
 
 img {
   width: 100%;
-  height: auto;
+  height: 100%; /* Ajustar la altura al 100% del contenedor */
   display: block;
   margin: 0 auto;
 }
@@ -39,7 +37,6 @@ h3 {
 h1 {
   position: relative;
   z-index: 1;
-  margin: 6rem 0 auto;
   font-size: 40px;
   color: #233950;
 }
@@ -53,7 +50,7 @@ h1 {
 h2 {
   color: #355270;
   font-size: 29px;
-  margin: 0.5rem;
+  margin: auto;
 }
 
 h3 {
@@ -65,7 +62,7 @@ p,
 table {
   color: #9f2738;
   font-size: 18px;
-  margin: 1rem;
+  margin: 0.5rem;
 }
 
 table {
@@ -116,9 +113,7 @@ td + td {
     font-size: 20px;
   }
 
-  .container {
+  .principal {
     max-width: 80%;
   }
 }
-
-  
