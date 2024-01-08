@@ -34,7 +34,7 @@ h1 {
   z-index: 1;
   font-size: 40px;
   color: #233950;
-  margin-top: 5rem;
+  margin-top: 4rem;
   margin-bottom: 0.1rem;
 }
 
@@ -46,7 +46,7 @@ h1 {
 
 h2 {
   color: #355270;
-  font-size: 29px;
+  font-size: 25px;
   margin: auto;
 }
 
@@ -109,7 +109,7 @@ td + td {
 
 @media screen and (max-width: 600px) {
   h1 {
-    font-size: 40px;
+    font-size: 37px;
   }
 
   p,
