@@ -34,7 +34,7 @@ h1 {
   z-index: 1;
   font-size: 40px;
   color: #233950;
-  margin-top: 6.5rem;
+  margin-top: 5rem;
   margin-bottom: 0.5rem;
 }
 
@@ -59,13 +59,15 @@ h3 {
   font-family: "Sacramento", cursive;
   color: #395776;
   font-size: 1.5rem;
+  margin-top: 0.7rem;
+  margin-bottom: 0.7rem;
 }
 
 p,
 table {
   color: #9f2738;
   font-size: 18px;
-  margin: 0.5rem;
+  margin: 0.3rem;
 }
 
 table {
