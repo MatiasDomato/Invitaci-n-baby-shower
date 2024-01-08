@@ -35,7 +35,7 @@ h1 {
   font-size: 40px;
   color: #233950;
   margin-top: 5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.1rem;
 }
 
 .bloque-body {
@@ -109,7 +109,7 @@ td + td {
 
 @media screen and (max-width: 600px) {
   h1 {
-    font-size: 30px;
+    font-size: 40px;
   }
 
   p,
