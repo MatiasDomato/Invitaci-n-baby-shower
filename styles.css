@@ -42,6 +42,7 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  height: 70%;
 }
 
 h2 {
@@ -128,6 +129,6 @@ td + td {
   }
 
   .principal {
-    max-width: 80%;
+    max-width: 100%;
   }
 }
